@@ -1,4 +1,4 @@
-# Fast-node-rezken
+# Fast start template 
 
 Fast start template with Node.js using [Express 4](http://expressjs.com/).
 
