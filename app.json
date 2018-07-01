@@ -1,0 +1,5 @@
+{
+  "name": "Node.js fast start",
+  "description": "Fast start template with Node.js using",
+  "keywords": ["node", "express", "heroku"]
+}
