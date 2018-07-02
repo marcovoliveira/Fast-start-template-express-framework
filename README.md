@@ -10,7 +10,7 @@ Make sure you have [Node.js](http://nodejs.org/) and the [Heroku CLI](https://cl
 
 ```sh
 $ git clone this repo # or clone your own fork
-$ cd node-js-template
+$ cd Fast-start-template-express-framework
 $ npm install # if you got any problem installing do: npm cache clean --force
 $ npm start
 ```
